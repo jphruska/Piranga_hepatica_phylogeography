@@ -5,17 +5,13 @@
 ## Bioproject PRJNA296706 #### 
 
 
-Taxa                  Voucher     
+Taxa                  Voucher       Data ?
 
-P. hepatica           KU 4970
-P. hepatica           KU 9084
-P. flava              KU 90809
-P. flava              LSU B15408
-P. lutea              KU 89864 
-P. lutea              LSU B5400
-
-
-
-
-
-asa
+P. hepatica           KU 4970       Yes
+P. hepatica           KU 9084       Yes
+P. flava              KU 90809      Yes
+P. flava              LSU B15408    Yes
+P. lutea              KU 89864      Yes
+P. lutea              LSU B5400     Yes
+C. cardinalis         KU 21828      Yes
+P. erythrocephala     FMNH 343370   Yes
